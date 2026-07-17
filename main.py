@@ -2,7 +2,7 @@ from datetime import datetime
 
 
 from dateutil.relativedelta import relativedelta
-print("<---Due amount calculator--->")
+print("<---Due Payment Calculator--->")
 
 def actual_price():
     while True:
